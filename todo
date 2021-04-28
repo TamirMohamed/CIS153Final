@@ -1,4 +1,9 @@
-- Find trivia to use
-- Create log file format
-- Get file import and creation working
-- Start on main function
+- Add to the getStats() function to:
+1. Show statistics for individual questions (success frequency, total times guessed)
+2. Show more statistics for users (specific total score, overall score leaderboard)
+
+- Create the help function (displays instructions to user)
+
+- Clean/neaten up the UI
+
+- Seperate question retrieval into a seperate function
