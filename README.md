@@ -1,5 +1,7 @@
-# CIS153Final
-Name: Tamir Mohamed
+Tamir Mohamed
+ID: 00301069
+Final - Trivia game
+CIS 153
+Quizzes user with trivia and writes/reads from files
 
-Project Description:
-A quiz game allowing users to create accounts, play trivia, and lookup stats according to a log file keeping info on each game.
+Completion statement: The biggest trouble I had with this was with Tkinter, just figuring out the geometry and how to initialize and place everything. After I figured that out, the rest was relatively straightforward as it was stuff we had learned previously in the semester.
